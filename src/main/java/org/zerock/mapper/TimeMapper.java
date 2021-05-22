@@ -8,4 +8,5 @@ public interface TimeMapper {
 	public String getTime();
 	
 	public String getTime2();
+	
 }
